@@ -1,0 +1,31 @@
+{
+  "name": "bot-blackclover",
+  "version": "1.0.0",
+  "description": "Bot info Gacha Black Clover Mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadenYukiii/BCM.git"
+  },
+  "keywords": [
+    "pull"
+  ],
+  "author": "Jaden_Yuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadenYukiii/BCM/issues"
+  },
+  "homepage": "https://github.com/JadenYukiii/BCM#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
